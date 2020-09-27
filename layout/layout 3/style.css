@@ -1,0 +1,123 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+/* header section area deign */
+header {
+    height: 100px;
+    background-color: rosybrown;
+    text-align: center;
+    width: 100%;
+}
+header h1 {
+    padding-top: 30px;
+}
+/* Content Area Design */
+section {
+    height: 400px;
+    background-color: white;
+    width: 100%;
+
+}
+/* left block design */
+.left-block {
+    width: 25%;
+    height: 400px;
+    background-color: tomato;
+    float: left;
+    text-align: center;
+}
+.module-title {
+    height: 10%;
+    background-color: greenyellow;
+    width: 100%;
+}
+.module-title-h3 {
+    padding-top: 10px;
+}
+
+.module-content {
+    height: 15%;
+    background-color: navajowhite;
+    width: 100%;
+}
+.module-content-h3 {
+    padding-top: 20px;
+}
+.module-item {
+    height: 30%;;
+    background-color: brown;
+    width: 100%;
+}
+.module-item-h3 {
+    padding-top: 50px;
+}
+
+
+/* middle blcok design */
+.middle-block {
+    width: 50%;
+    height: 400px;
+    background-color: orange;
+    float: left;
+    text-align: center;
+
+}
+.page-content {
+    height: 40%;
+    width: 100%;
+    background-color: lightslategrey;
+}
+.page-content-h3 {
+    padding-top: 70px;
+}
+.page-item1 {
+    height: 10%;
+    width: 100%;
+    background-color: maroon;
+    color: white;
+}
+.page-item2 {
+    height: 10%;
+    width: 100%;
+    background-color: rgb(190, 65, 65);
+    color: white;
+}
+.page-item3 {
+    height: 10%;
+    width: 100%;
+    background-color: rgb(158, 88, 88);
+    color: white;
+}
+.page-item-h3 {
+    padding-top: 10px;
+}
+.middle-bar {
+    height: 30%;
+    width: 100%;
+    background-color: rgb(4, 38, 73);
+    color: white;
+}
+.middle-bar-h3 {
+    padding-top: 45px;
+}
+/* right block area design */
+.right-block {
+    width: 25%;
+    height: 400px;
+    background-color: gray;
+    float: left;
+    text-align: center;
+}
+.right-block-h3 {
+    padding-top: 50%;
+}
+/* footer area design */
+footer {
+    height: 100px;
+    background-color: indianred;
+    text-align: center;
+}
+footer h1 {
+    padding-top: 30px;
+}

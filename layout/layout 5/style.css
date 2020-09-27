@@ -1,0 +1,106 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+header {
+    height: 100px;
+    width: 100%;
+    background-color: darkgoldenrod;
+    text-align: center;
+    overflow: hidden;
+}
+header h1 {
+    padding-top: 35px;
+    font-size: 30px;
+}
+.top-section {
+    height: 200px;
+    width: 100%;
+    background-color: black;
+    overflow: hidden;
+    text-align: center;
+}
+.intro-section {
+    height: 100%;
+    width: 60%;
+    background-color: coral;
+    float: left;
+}
+.intro-section-h3 {
+    padding-top: 80px;
+    font-size: 40px;
+}
+.image-call {
+    height: 100%;
+    width: 40%;
+    background-color: cornsilk;
+    float: right;
+    overflow: hidden;
+}
+.top-image-section {
+    height: 150px;
+    width: 100%;
+    background-color: dimgrey;
+    color: whitesmoke;
+}
+.top-image-section-h3 {
+    padding-top: 60px;
+    font-size: 30px;
+}
+.top-call-section {
+    height: 50px;
+    width: 100%;
+    background-color: greenyellow;
+}
+.top-call-section-h3 {
+    font-size: 20px;
+    padding-top: 15px;
+}
+.feature {
+    height: 100px;
+    width: 100%;
+    background-color: mediumvioletred;
+    text-align: center;
+    color: white;
+}
+.feature-h3 {
+    padding-top: 35px;
+    font-size: 30px;
+}
+.bottom-section {
+    height: 60px;
+    width: 100%;
+    background-color: black;
+    text-align: center;
+}
+.bottom-more-section {
+    height: 100%;
+    width: 60%;
+    background-color: darkgrey;
+    float: left;
+}
+.bottom-more-section-h3 {
+    font-size: 20px;
+    padding-top: 20px;
+}
+.bottom-call-section {
+    height: 100%;
+    width: 40%;
+    background-color: greenyellow;
+    float: right;
+}
+.bottom-call-section-h3 {
+    font-size: 20px;
+    padding-top: 20px;
+}
+footer {
+    height: 60px;
+    width: 100%;
+    background-color: darkred;
+    color: white;
+    text-align: center;
+}
+footer h2 {
+    font-size: 30px;
+    padding-top: 15px;
+}

@@ -1,0 +1,188 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+/* header area design */
+header {
+    height: 150px;
+    width: 100%;
+    background-color: whitesmoke;
+    text-align: center;
+    overflow: hidden;
+}
+.head {
+    background-color: gold;
+    height: 100px;
+    width: 100%;
+}
+header div h1 {
+    padding-top: 30px;
+    font-size: 40px;
+}
+.nav {
+    background-color: rgb(104, 95, 44);
+    height: 50px;
+    width: 100%;
+    color: white;
+}
+.header-nav {
+    padding-top: 15px;
+}
+/* content area design */
+section {
+    height:800px;
+    width: 100%px;
+    background-color: wheat;
+    overflow: hidden;
+}
+/* left content design */
+.left-block {
+    height: 100%;
+    width: 30%;
+    background-color: rgb(102, 126, 56);
+    float: left;
+    text-align: center;
+    overflow: hidden;
+}
+.left-header {
+    height: 100px;
+    width: 100%;
+    background-color: turquoise;
+    overflow: hidden;
+}
+.left-header-block {
+    padding-top: 40px;
+}
+
+.left-nav {
+    height: 600px;
+    width: 100%;
+    background-color: rgb(65, 145, 137);
+    overflow: hidden;
+}
+.left-nav-block {
+    padding-top: 300px;
+}
+.left-footer {
+    height: 100px;
+    width: 100%;
+    background-color: rgb(27, 66, 62);
+    overflow: hidden;
+    color: white;
+}
+.left-footer-block {
+    padding-top: 40px;
+}
+/* Right Content Design */
+.right-block {
+    height: 800px;
+    width: 70%;
+    background-color: violet;
+    float: right;
+    text-align: center;
+    overflow: hidden; 
+}
+.article-top {
+    overflow: hidden;
+    width: 100%;
+    height: 400px;
+    background-color: black;
+}
+.article-top-header {
+    height: 100px;
+    width: 100%;
+    background-color: wheat;
+}
+.article-top-header-h3 {
+    padding-top: 40px;
+}
+.article-top-p1 {
+    height: 100px;
+    width: 100%;
+    background-color: rgb(177, 149, 97);
+}
+.article-top-p1-p{
+    padding-top: 40px;
+}
+.article-top-p2 {
+    height: 100px;
+    width: 100%;
+    background-color: rgb(136, 114, 74);
+}
+.article-top-p2-p{
+    padding-top: 40px;
+}
+.article-top-footer {
+    height: 100px;
+    width: 100%;
+    background-color: rgb(112, 94, 60);
+    color: white;
+}
+.article-top-footer-h3{
+    padding-top: 40px;
+}
+.article-bottom{
+    overflow: hidden;
+    width: 100%;
+    height: 400px;
+    background-color: black;
+    text-align: center;
+}
+.article-bottom-header {
+    height: 100px;
+    width: 100%;
+    background-color: yellowgreen;
+    overflow: hidden;
+}
+.article-bottom-header-h3 {
+    padding-top: 40px;
+    font-size: 20px;
+
+}
+.article-bottom-content {
+    height: 200px;
+    width: 100%;
+    background-color: white;
+}
+.article-bottom-content-left {
+    height: 200px;
+    width: 70%;
+    background-color: rgb(236, 226, 128);
+    float: left;
+}
+.article-bottom-content-left-h6 {
+    padding-top: 90px;
+    font-size: 20px;
+}
+.article-bottom-content-right {
+    height: 200px;
+    width: 30%;
+    background-color: rgb(180, 172, 101);
+    float: right;
+}
+.article-bottom-content-right-h6 {
+    padding-top: 90px;
+    font-size: 20px;
+}
+.article-bottom-footer {
+    height: 100px;
+    width: 100%;
+    background-color: rgb(75, 90, 45);
+    color: white;
+}
+.article-bottom-footer-h3 {
+    padding-top: 40px;
+    font-size: 20px;
+}
+footer {
+    height: 100px;
+    width: 100%;
+    background-color: darkred;
+    overflow: hidden;
+    color: white;
+    text-align: center;
+}
+footer h1 {
+    padding-top: 30px;
+    font-size: 40px;
+}
